@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python environment
+fytopod_env/
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Big datasets
+archive/
+archive.zip
+filtered_dataset/
+filtered_dataset.zip
+PlantVillage/
+data/raw/
+data/processed/
+
+# Duplicate model formats
+*.h5
+
+# Logs and cache
+*.log
+*.tmp
+cache/
+logs/
+
+# VS Code and system files
+.vscode/
+.DS_Store
+Thumbs.db

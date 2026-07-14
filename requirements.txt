@@ -1,0 +1,14 @@
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+fastapi
+uvicorn
+python-dotenv
+joblib
+pillow
+opencv-python
